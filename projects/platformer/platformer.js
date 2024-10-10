@@ -43,7 +43,7 @@ $(function () {
     createPlatform(400,450,100,25)
     createPlatform(220,350,100,25)
     createPlatform(400,250,100,25)
-   
+   //test
 
     createPlatform(500,120,25,700)
     createPlatform(200,200,25,455)
